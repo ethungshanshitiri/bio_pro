@@ -25,7 +25,7 @@ function setProfileLinks(){
     scholar.textContent = "Open profile";
   } else {
     scholar.href = "#";
-    scholar.textContent = "https://scholar.google.com/citations?user=pbAP-VQAAAAJ&hl=en";
+    scholar.textContent = "Add link?";
   }
 
   if (siteConfig.orcidId){
