@@ -1,0 +1,258 @@
+{
+  "generated_utc": "2026-02-11T06:54:59Z",
+  "source": "seed_from_pdf",
+  "journals": [
+    {
+      "id": "j14",
+      "label": "j14",
+      "number": 14,
+      "citation": "A. Yadav, A. Kumar, Ethungshan Shitiri, S. Kumar and H. -S. Cho, \"Non-Data-Aided SNR Estimation for Molecular Communication Systems in Internet of Bio-Nano Things,\" in IEEE Internet of Things Journal, vol. 12, no. 1, pp. 595-604, 1 Jan.1, 2025, doi: 10.1109/JIOT.2024.3465495.",
+      "doi": "10.1109/JIOT.2024.3465495",
+      "url": "https://doi.org/10.1109/JIOT.2024.3465495"
+    },
+    {
+      "id": "j13",
+      "label": "j13",
+      "number": 13,
+      "citation": "Ethungshan Shitiri and H. -S. Cho, \"An M-Ary Concentration-Shift Keying With Common Detection Thresholds for Multitransmitter Molecular Communication,\" in IEEE Internet of Things Journal, vol. 11, no. 10, pp. 17948-17959, 15 May15, 2024, doi: 10.1109/JIOT.2024.3359999",
+      "doi": "10.1109/JIOT.2024.3359999",
+      "url": "https://doi.org/10.1109/JIOT.2024.3359999"
+    },
+    {
+      "id": "j12",
+      "label": "j12",
+      "number": 12,
+      "citation": "Junho Cho, Faisal Ahmed, Ethungshan Shitiri, and Ho-Shin Cho, \"Reinforcement Learning-Based Power Control for MACA-Based Underwater MAC Protocol,\" in IEEE Access, vol. 10, pp. 71044-71053, 05 July 2022. DOI: 10.1109/ACCESS.2022.3188705",
+      "doi": "10.1109/ACCESS.2022.3188705",
+      "url": "https://doi.org/10.1109/ACCESS.2022.3188705"
+    },
+    {
+      "id": "j11",
+      "label": "j11",
+      "number": 11,
+      "citation": "Tania Islam, Ethungshan Shitiri, and Ho-Shin Cho, \"In-Body Sequential Multidrug Delivery Scheme Using Molecular Communication,\" in IEEE Access, vol. 10, pp. 39975-39985, 12 April 2022. DOI: 10.1109/ACCESS.2022.3166945",
+      "doi": "10.1109/ACCESS.2022.3166945",
+      "url": "https://doi.org/10.1109/ACCESS.2022.3166945"
+    },
+    {
+      "id": "j10",
+      "label": "j10",
+      "number": 10,
+      "citation": "Ethungshan Shitiri, H. Birkan Yilmaz and Ho-Shin Cho, \"Probability Distribution of a Signal’s Peak Time in a Molecular Diffusive Media,\" in IEEE Communications Letters, 27 September 2021. DOI: 10.1109/LCOMM.2021.3115724",
+      "doi": "10.1109/LCOMM.2021.3115724",
+      "url": "https://doi.org/10.1109/LCOMM.2021.3115724"
+    },
+    {
+      "id": "j9",
+      "label": "j9",
+      "number": 9,
+      "citation": "Tania Islam, Ethungshan Shitiri, and Ho-Shin Cho, \"A Molecular Communication-Based Simultaneous Targeted-Drug Delivery Scheme,\" IEEE Access, vol. 9, pp. 96658-96670, 05 July 2021. DOI: 10.1109/ACCESS.2021.3094892",
+      "doi": "10.1109/ACCESS.2021.3094892",
+      "url": "https://doi.org/10.1109/ACCESS.2021.3094892"
+    },
+    {
+      "id": "j8",
+      "label": "j8",
+      "number": 8,
+      "citation": "Ethungshan Shitiri and Ho-Shin Cho, “A TDMA-Based Data Gathering Protocol for Molecular Communication via Diffusion-Based Nano-Sensor Networks”, IEEE Sensors, June 2021. DOI: 10.1109/JSEN.2021.3091494",
+      "doi": "10.1109/JSEN.2021.3091494",
+      "url": "https://doi.org/10.1109/JSEN.2021.3091494"
+    },
+    {
+      "id": "j7",
+      "label": "j7",
+      "number": 7,
+      "citation": "Ethungshan Shitiri and Ho-Shin Cho, “Timing Alignment in Molecular Communication-based Nanonetworks”, in IEEE Communications Magazine, vol. 59, no. 5, pp. 54-60, May 2021 (3rd June online). DOI: 10.1109/MCOM.001.2000959",
+      "doi": "10.1109/MCOM.001.2000959",
+      "url": "https://doi.org/10.1109/MCOM.001.2000959"
+    },
+    {
+      "id": "j6",
+      "label": "j6",
+      "number": 6,
+      "citation": "Tania Islam, Ethungshan Shitiri, and Ho-Shin Cho, “A Simultaneous Drug Release Scheme for Targeted Drug Delivery Using Molecular Communications”, IEEE Acess, vol. 8, pp. 91770-91778, 14 May 2020. DOI: 10.1109/ACCESS.2020.2994493",
+      "doi": "10.1109/ACCESS.2020.2994493",
+      "url": "https://doi.org/10.1109/ACCESS.2020.2994493"
+    },
+    {
+      "id": "j5",
+      "label": "j5",
+      "number": 5,
+      "citation": "Ethungshan Shitiri, H. Birkan Yilmaz, and Ho-Shin Cho, “A Time-Slotted Molecular Communication (TS-MOC): Framework and Time-Slot Errors,” IEEE Access, vol. 7, pp. 78146 - 78158, 12 June 2019. DOI: 10.1109/ACCESS.2019.2922294",
+      "doi": "10.1109/ACCESS.2019.2922294",
+      "url": "https://doi.org/10.1109/ACCESS.2019.2922294"
+    },
+    {
+      "id": "j4",
+      "label": "j4",
+      "number": 4,
+      "citation": "Ethungshan Shitiri, Athanasios V. Vasilakos, Ho-Shin Cho, “Biological Oscillators in Nanonetworks - Opportunities and Challenges,” MDPI Sensors 18(5): 1544, 13 May 2018. https://doi.org/10.3390/s18051544",
+      "doi": "10.3390/s18051544",
+      "url": "https://doi.org/10.3390/s18051544"
+    },
+    {
+      "id": "j3",
+      "label": "j3",
+      "number": 3,
+      "citation": "Junho Cho, Ethungshan Shitiri, Ho-Shin Cho, “Network Allocation Vector (NAV) Optimization for Underwater Handshaking-Based Protocols,” MDPI Sensors 17(1): 32, 24 December 2016. https://doi.org/10.3390/s17010032",
+      "doi": "10.3390/s17010032",
+      "url": "https://doi.org/10.3390/s17010032"
+    },
+    {
+      "id": "j2",
+      "label": "j2",
+      "number": 2,
+      "citation": "Ethungshan Shitiri, In-Seop Park, Ho-Shin Cho, “OrMAC: A Hybrid MAC Protocol Using Orthogonal Codes for Channel Access in M2M Networks,” MDPI Sensors 17(9): 2138, 17 September 2017. https://doi.org/10.3390/s17092138 Ethungshan Shitiri (+82) 10-3009-0371 ethungshan@ee.knu.ac.kr",
+      "doi": "10.3390/s17092138",
+      "url": "https://doi.org/10.3390/s17092138"
+    },
+    {
+      "id": "j1",
+      "label": "j1",
+      "number": 1,
+      "citation": "Ethungshan Shitiri and Ho-Shin Cho, “A Biochemical Oscillator Using Excitatory Molecules for Nanonetworks,” IEEE Transactions on NanoBioscience, vol. 15, no. 7, pp. 765-774, 18 October 2016. DOI: 10.1109/TNB.2016.2616539",
+      "doi": "10.1109/TNB.2016.2616539",
+      "url": "https://doi.org/10.1109/TNB.2016.2616539"
+    }
+  ],
+  "conferences": [
+    {
+      "id": "c16",
+      "label": "c16",
+      "number": 16,
+      "citation": "Mika Leo Hube, Filip Lemic, Ethungshan Shitiri, Gerard Calvo Bartra, Sergi Abadal, and Xavier Costa Pérez. 2025. “Set Transformer Architectures and Synthetic Data Generation for Flow-Guided Nanoscale Localization”. In Proceedings of the 12th Annual ACM International Conference on Nanoscale Computing and Communication (NANOCOM '25).",
+      "doi": null,
+      "url": null
+    },
+    {
+      "id": "c15",
+      "label": "c15",
+      "number": 15,
+      "citation": "Ethungshan Shitiri, Eneko Ibarluzea Sòria, Satvika Santhoshi Marakala, Filip Lemic, Sergi Abadal, and Eduard Alarcón. 2024. “Intra-Body Nanonetworks for In Vivo Biomarker Detection in Capillaries”. In Proceedings of the 11th Annual ACM International Conference on Nanoscale Computing and Communication (NANOCOM '24).",
+      "doi": null,
+      "url": null
+    },
+    {
+      "id": "c14",
+      "label": "c14",
+      "number": 14,
+      "citation": "Ethungshan Shitiri, Akarsh Yadav, Sergi Abadal, Eduard Alarcón, and Ho-Shin Cho. 2024. “Enhanced Drug Delivery via Localization-Enabled Relaying in Molecular Communication Nanonetworks”, In Proceedings of the 11th Annual ACM International Conference on Nanoscale Computing and Communication (NANOCOM '24).",
+      "doi": null,
+      "url": null
+    },
+    {
+      "id": "c13",
+      "label": "c13",
+      "number": 13,
+      "citation": "Faisal Ahmed, Ethungshan Shitiri, and Ho-Shin Cho, \"Reinforcement Learning-Based MAC for Reconfigurable Intelligent Surface-Assisted Wireless Sensor Networks,\" 13th International Conference on Ubiquitous and Future Networks, ICUFN, Barcelona, Spain, July 2022.",
+      "doi": null,
+      "url": null
+    },
+    {
+      "id": "c12",
+      "label": "c12",
+      "number": 12,
+      "citation": "Junho Cho, Faisal Ahmed, Ethungshan Shitiri, and Ho-Shin Cho, \"Power Control for MACA-based Underwater MAC Protocol: A Q-Learning Approach,\" 2021 IEEE Region 10 Symposium (TENSYMP), August 2021.",
+      "doi": null,
+      "url": null
+    },
+    {
+      "id": "c11",
+      "label": "c11",
+      "number": 11,
+      "citation": "Ethungshan Shitiri, H. Birkan Yilmaz, and Ho-Shin Cho, “Analysis of Akaike’s Information Criterion for Propagation Delays in a Free-Diffusion Channel”, 4th Workshop on Molecular Communications (MolCom), Linz, Austria, April 2019.",
+      "doi": null,
+      "url": null
+    },
+    {
+      "id": "c10",
+      "label": "c10",
+      "number": 10,
+      "citation": "Ethungshan Shitiri and Ho-Shin Cho, “Achieving in-phase synchronization in a diffusion-based nanonetwork with unknown propagation delay”, 4th International Conference on Nanoscale Computing and Communication (NanoCom), Washington DC, USA, September 2017.",
+      "doi": null,
+      "url": null
+    },
+    {
+      "id": "c9",
+      "label": "c9",
+      "number": 9,
+      "citation": "In-Seop Park, Ethungshan Shitiri, Ho-Shin Cho, “An orthogonal coded hybrid MAC protocol with received power based prioritization for M2M networks”, 8th International Conference on Ubiquitous and Future Networks, ICUFN, Vienna, Austria, July 2016.  Ethungshan Shitiri (+82) 10-3009-0371 ethungshan@ee.knu.ac.kr",
+      "doi": null,
+      "url": null
+    },
+    {
+      "id": "c8",
+      "label": "c8",
+      "number": 8,
+      "citation": "Ethungshan Shitiri and Ho-Shin Cho, “Effects of Detection Threshold on Concentration Shift Keying for Molecular Communications with Multiple Transmitters”, KICS Fall Conference, South Korea, 2021 (Best Paper Award)",
+      "doi": null,
+      "url": null
+    },
+    {
+      "id": "c7",
+      "label": "c7",
+      "number": 7,
+      "citation": "Faisal Ahmed, Ethungshan Shitiri, and Ho-Shin Cho, “On a Reconfigurable Intelligent Surface-aided Relay Network Architecture for Underwater Acoustic Sensor Networks”, KICS Fall Conference, South Korea, 2021",
+      "doi": null,
+      "url": null
+    },
+    {
+      "id": "c6",
+      "label": "c6",
+      "number": 6,
+      "citation": "Tania Islam, Ethungshan Shitiri, Ho-Shin Cho, “A Sequential Drug Release Scheme among Multiple Nanomachines, KICS Fall Conference”, South Korea, 2021",
+      "doi": null,
+      "url": null
+    },
+    {
+      "id": "c5",
+      "label": "c5",
+      "number": 5,
+      "citation": "Tania Islam, Ethungshan Shitiri, and Ho-Shin Cho, “Synchronization among Multiple Nanomachines for Simultaneous Targeted Drug Delivery”, KICS (The Korean Institute of Communications and Information Sciences) Winter Conference, Jeongseon, South Korea (2019)",
+      "doi": null,
+      "url": null
+    },
+    {
+      "id": "c4",
+      "label": "c4",
+      "number": 4,
+      "citation": "Ethungshan Shitiri and Ho-Shin Cho, “Impact of Propagation Delay and Nanomachine Position on the Synchronization Error Ratio,” KICS Summer Conference, Jeju, South Korea (2017)",
+      "doi": null,
+      "url": null
+    },
+    {
+      "id": "c3",
+      "label": "c3",
+      "number": 3,
+      "citation": "Ethungshan Shitiri and Ho-Shin Cho, “A low complexity synchronization scheme for nanonetworks,” KICS Winter Conference, Jeongseon, South Korea (2017)",
+      "doi": null,
+      "url": null
+    },
+    {
+      "id": "c2",
+      "label": "c2",
+      "number": 2,
+      "citation": "Ethungshan Shitiri and Ho-Shin Cho, “Synchronization using Excitatory Molecules in Nanonetworks,” JCCI (The Joint Conference on Communications and Information), Sokcho, South Korea (2016)",
+      "doi": null,
+      "url": null
+    },
+    {
+      "id": "c1",
+      "label": "c1",
+      "number": 1,
+      "citation": "Ethungshan Shitiri and Ho-Shin Cho, “Molecular Oscillator: A bio-inspired oscillator for Molecular Nanonetworks,” KICS Summer Conference, Jeju, South Korea (2015)",
+      "doi": null,
+      "url": null
+    }
+  ],
+  "book_chapters": [
+    {
+      "id": "b1",
+      "label": "b1",
+      "number": 1,
+      "citation": "Ethungshan Shitiri and Ho-Shin Cho, Synchronization for Molecular Communications and Nanonetworking, Nanoscale Networking and Communications Handbook, CRC Press, July 2019",
+      "doi": null,
+      "url": null
+    }
+  ]
+}
