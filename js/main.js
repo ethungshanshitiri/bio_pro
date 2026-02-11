@@ -1,6 +1,6 @@
 const siteConfig = {
-  scholarProfileUrl: "",
-  orcidId: ""
+  scholarProfileUrl: "https://scholar.google.com/citations?user=pbAP-VQAAAAJ&hl=en",
+  orcidId: "0000-0002-8696-0920"
 };
 
 function byId(id){
